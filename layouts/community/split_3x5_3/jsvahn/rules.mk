@@ -1,0 +1,3 @@
+SPLIT_KEYBOARD = yes
+MOUSEKEY_ENABLE = yes
+EXTRAFLAGS += -flto
